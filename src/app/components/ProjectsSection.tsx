@@ -27,7 +27,7 @@ const projectsData = [
       "An E-commerce Tourism Website for exploring attractions and booking sightseeing trips.",
     image: "/images/projects/3.png",
     gitUrl: "https://github.com/aiwlulu/taipei-day-trip",
-    previewUrl: "http://3.112.181.54:3000",
+    previewUrl: "/",
   },
 ];
 
