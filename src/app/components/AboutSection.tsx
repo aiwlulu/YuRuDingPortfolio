@@ -22,6 +22,7 @@ const TAB_DATA: TabData[] = [
           <li>React</li>
           <li>Next.js</li>
           <li>Tailwind CSS</li>
+          <li>Material UI</li>
         </ul>
 
         <h3 className="font-bold text-lg">Back-End</h3>
@@ -33,7 +34,7 @@ const TAB_DATA: TabData[] = [
 
         <h3 className="font-bold text-lg">Dev Tools</h3>
         <ul className="list-disc pl-5 mb-4">
-          <li>Git / GitHub</li>
+          <li>Git</li>
           <li>Jest</li>
           <li>ESLint</li>
         </ul>
