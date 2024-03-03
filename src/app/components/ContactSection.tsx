@@ -29,7 +29,7 @@ const ContactSection = () => {
             <Image src={GithubIcon} alt="Github Icon" />
           </Link>
           <Link
-            href="https://www.linkedin.com/in/yu-ru-ding-161204215"
+            href="https://www.linkedin.com/in/yu-ru-ding"
             rel="noopener noreferrer"
             target="_blank"
           >
